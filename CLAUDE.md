@@ -6,7 +6,7 @@ Owner: Arman (Asia/Yerevan, UTC+4). Wants very concise replies (2-3 line status 
 
 ## Rules
 - Free sources first (RSS/Atom, YouTube RSS, yt-dlp, youtube-transcript-api). Firecrawl is paid: give a credit estimate and get Arman's OK before any significant run.
-- Never post to Telegram without Arman's explicit OK on a dry-run file (`out/`).
+- Never post to Telegram without Arman's explicit OK on a dry-run file (`out/`). One exception, approved by Arman on 2026-11-25: the scheduled task `ai-signal-digest-autopost` (Claude desktop app, every 2 days with catch-up) posts on its own, but only after `check-digest` says OK and a 5-claim spot-check against the source posts passes. Otherwise it leaves the file in `out/` unposted. Its state lives in `out/last_post.json`.
 - Secrets only in `.env` (gitignored): TELEGRAM_BOT_TOKEN, FIRECRAWL_API_KEY, ANTHROPIC_API_KEY. Never in code, logs or commits.
 - Never overwrite history: posts are upserted (unique platform+post_id); raw snapshots per run in `data/raw/YYYY-MM-DD/`.
 - Dates stored as ISO-8601 UTC; convert relative dates at collection time.
