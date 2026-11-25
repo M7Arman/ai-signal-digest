@@ -1,0 +1,11 @@
+.env
+*.env
+__pycache__/
+*.pyc
+.venv/
+data/*.db
+data/*.db-*
+data/raw/
+data/transcripts/
+out/
+logs/

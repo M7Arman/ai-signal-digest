@@ -1,0 +1,30 @@
+{
+  "_comment": "Per-person overrides keyed by influencer id. feed_url is tried first; on failure the collector autodiscovers from the site URL. extra_sources adds accounts not in the master list.",
+  "overrides": {
+    "jack-clark": {"feed_url": "https://importai.substack.com/feed"},
+    "lilian-weng": {"feed_url": "https://lilianweng.github.io/index.xml"},
+    "nathan-lambert": {"feed_url": "https://www.interconnects.ai/feed"},
+    "sebastian-raschka": {"feed_url": "https://magazine.sebastianraschka.com/feed"},
+    "jay-alammar": {"feed_url": "https://jalammar.github.io/feed.xml"},
+    "simon-willison": {"feed_url": "https://simonwillison.net/atom/everything/"},
+    "shawn-wang-swyx": {"feed_url": "https://www.latent.space/feed"},
+    "alessio-fanelli": {"feed_url": "https://www.latent.space/feed"},
+    "maxime-labonne": {"feed_url": "https://mlabonne.github.io/blog/index.xml"},
+    "ruben-hassid": {"feed_url": "https://ruben.substack.com/feed", "collector": "rss", "platform": "substack"},
+    "dwarkesh-patel": {"feed_url": "https://www.dwarkesh.com/feed"},
+    "ben-tossell": {"feed_url": "https://www.bensbites.com/feed"},
+    "michael-spencer": {"feed_url": "https://www.ai-supremacy.com/feed"},
+    "eric-topol": {"feed_url": "https://erictopol.substack.com/feed"},
+    "gary-marcus": {"feed_url": "https://garymarcus.substack.com/feed"},
+    "zvi-mowshowitz": {"feed_url": "https://thezvi.substack.com/feed"},
+    "azeem-azhar": {"feed_url": "https://www.exponentialview.co/feed"},
+    "nathan-labenz": {"feed_url": "https://www.cognitiverevolution.ai/feed"}
+  },
+  "extra_sources": [
+    {"source_id": "andrej-karpathy:x", "person": "Andrej Karpathy", "person_ids": ["andrej-karpathy"],
+     "platform": "x", "url": "https://x.com/karpathy", "handle": "karpathy", "collector": "x",
+     "note": "YouTube channel dormant since Feb 2025; X matters more"}
+  ],
+  "skip": ["andrew-ng", "zain-kahn", "pascal-bornet", "allie-k-miller",
+           "harrison-chase", "eric-hartford", "georgi-gerganov", "elvis-saravia"]
+}

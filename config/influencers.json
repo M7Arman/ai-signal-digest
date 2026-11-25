@@ -1,0 +1,3050 @@
+{
+  "source": "https://ai-tldr.dev/influencers/",
+  "scraped_from": "ai-tldr-influencers-2026-11-24.html",
+  "count": 159,
+  "influencers": [
+    {
+      "id": "sam-altman",
+      "name": "Sam Altman",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://x.com/sama",
+      "handle": "@sama",
+      "reach": "1M+",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "agi"
+      ],
+      "bio": "CEO of OpenAI, leading the development of ChatGPT and GPT series models.",
+      "other_link_types": [],
+      "x_username": "sama"
+    },
+    {
+      "id": "dario-amodei",
+      "name": "Dario Amodei",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://x.com/DarioAmodei",
+      "handle": "@DarioAmodei",
+      "reach": "500K+",
+      "tags": [
+        "anthropic",
+        "claude",
+        "ai-safety"
+      ],
+      "bio": "Co-founder and CEO of Anthropic, the AI safety company behind Claude.",
+      "other_link_types": [
+        "Blog"
+      ],
+      "x_username": "DarioAmodei"
+    },
+    {
+      "id": "ilya-sutskever",
+      "name": "Ilya Sutskever",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://x.com/ilyasut",
+      "handle": "@ilyasut",
+      "reach": "500K+",
+      "tags": [
+        "research",
+        "agi",
+        "safety"
+      ],
+      "bio": "Co-founder and CEO of Safe Superintelligence Inc; former OpenAI chief scientist.",
+      "other_link_types": [],
+      "x_username": "ilyasut"
+    },
+    {
+      "id": "greg-brockman",
+      "name": "Greg Brockman",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://x.com/gdb",
+      "handle": "@gdb",
+      "reach": "1M+",
+      "tags": [
+        "openai",
+        "infrastructure",
+        "llms"
+      ],
+      "bio": "Co-founder and President of OpenAI, leading product and the infrastructure behind ChatGPT.",
+      "other_link_types": [],
+      "x_username": "gdb"
+    },
+    {
+      "id": "demis-hassabis",
+      "name": "Demis Hassabis",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://x.com/demishassabis",
+      "handle": "@demishassabis",
+      "reach": "1M+",
+      "tags": [
+        "deepmind",
+        "research",
+        "science"
+      ],
+      "bio": "Co-founder and chair of Google DeepMind, chief scientist of Alphabet and CEO of Isomorphic Labs; 2024 Nobel Prize laureate for AlphaFold.",
+      "other_link_types": [],
+      "x_username": "demishassabis"
+    },
+    {
+      "id": "mira-murati",
+      "name": "Mira Murati",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://x.com/miramurati",
+      "handle": "@miramurati",
+      "reach": "1M+",
+      "tags": [
+        "thinking-machines",
+        "research",
+        "openai"
+      ],
+      "bio": "Founder and CEO of Thinking Machines Lab; former OpenAI CTO.",
+      "other_link_types": [],
+      "x_username": "miramurati"
+    },
+    {
+      "id": "aravind-srinivas",
+      "name": "Aravind Srinivas",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://x.com/AravSrinivas",
+      "handle": "@AravSrinivas",
+      "reach": "1M+",
+      "tags": [
+        "search",
+        "perplexity",
+        "startups"
+      ],
+      "bio": "CEO of Perplexity AI, building the future of AI-powered search.",
+      "other_link_types": [],
+      "x_username": "AravSrinivas"
+    },
+    {
+      "id": "emad-mostaque",
+      "name": "Emad Mostaque",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://twitter.com/EMostaque",
+      "handle": "@EMostaque",
+      "reach": "100K+",
+      "tags": [
+        "stability-ai",
+        "open-source",
+        "generative-ai"
+      ],
+      "bio": "Founder of Intelligent Internet and former CEO of Stability AI; vocal advocate for open and decentralized AI.",
+      "other_link_types": [],
+      "x_username": "EMostaque"
+    },
+    {
+      "id": "cl-ment-delangue",
+      "name": "Clément Delangue",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://x.com/ClementDelangue",
+      "handle": "@ClementDelangue",
+      "reach": "500K+",
+      "tags": [
+        "huggingface",
+        "open-source",
+        "community"
+      ],
+      "bio": "Co-founder and CEO of Hugging Face, the open-source AI platform that Nvidia agreed to buy in 2026.",
+      "other_link_types": [],
+      "x_username": "ClementDelangue"
+    },
+    {
+      "id": "logan-kilpatrick",
+      "name": "Logan Kilpatrick",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://x.com/OfficialLoganK",
+      "handle": "@OfficialLoganK",
+      "reach": "100K+",
+      "tags": [
+        "devrel",
+        "google",
+        "community"
+      ],
+      "bio": "Product lead for Google AI Studio and the Gemini API; former OpenAI developer relations lead.",
+      "other_link_types": [],
+      "x_username": "OfficialLoganK"
+    },
+    {
+      "id": "thomas-wolf",
+      "name": "Thomas Wolf",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://x.com/Thom_Wolf",
+      "handle": "@Thom_Wolf",
+      "reach": "100K+",
+      "tags": [
+        "huggingface",
+        "open-source",
+        "transformers"
+      ],
+      "bio": "Co-founder and CSO of Hugging Face, key architect of the open-source AI ecosystem.",
+      "other_link_types": [],
+      "x_username": "Thom_Wolf"
+    },
+    {
+      "id": "alex-albert",
+      "name": "Alex Albert",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://x.com/alexalbert__",
+      "handle": "@alexalbert__",
+      "reach": "100K+",
+      "tags": [
+        "anthropic",
+        "claude",
+        "devrel"
+      ],
+      "bio": "Researcher at Anthropic who previously led Claude Relations, sharing news and insights on Claude.",
+      "other_link_types": [],
+      "x_username": "alexalbert__"
+    },
+    {
+      "id": "jack-clark",
+      "name": "Jack Clark",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "substack",
+      "url": "https://importai.substack.com/",
+      "handle": "@jackclarkSF",
+      "reach": null,
+      "tags": [
+        "newsletter",
+        "research",
+        "ai-policy"
+      ],
+      "bio": "Anthropic co-founder and Head of Public Benefit, leading the Anthropic Institute; writes the weekly Import AI newsletter.",
+      "other_link_types": []
+    },
+    {
+      "id": "mustafa-suleyman",
+      "name": "Mustafa Suleyman",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://x.com/mustafasuleyman",
+      "handle": "@mustafasuleyman",
+      "reach": "1M+",
+      "tags": [
+        "microsoft",
+        "copilot",
+        "superintelligence"
+      ],
+      "bio": "CEO of Microsoft AI, leading Copilot, Microsoft's own MAI models and its superintelligence team; co-founder of DeepMind and Inflection AI.",
+      "other_link_types": [],
+      "x_username": "mustafasuleyman"
+    },
+    {
+      "id": "alexandr-wang",
+      "name": "Alexandr Wang",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://x.com/alexandr_wang",
+      "handle": "@alexandr_wang",
+      "reach": "500K+",
+      "tags": [
+        "meta",
+        "superintelligence",
+        "scale-ai"
+      ],
+      "bio": "Chief AI Officer at Meta, where he leads Meta Superintelligence Labs; founder of Scale AI.",
+      "other_link_types": [],
+      "x_username": "alexandr_wang"
+    },
+    {
+      "id": "jeff-dean",
+      "name": "Jeff Dean",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://x.com/JeffDean",
+      "handle": "@JeffDean",
+      "reach": "500K+",
+      "tags": [
+        "discovery-loop",
+        "gemini",
+        "ai-for-science"
+      ],
+      "bio": "Co-founder and CEO of Discovery Loop, a new AI lab that wants to automate scientific research; former Google chief scientist and Gemini co-lead.",
+      "other_link_types": [],
+      "x_username": "JeffDean"
+    },
+    {
+      "id": "arthur-mensch",
+      "name": "Arthur Mensch",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://x.com/arthurmensch",
+      "handle": "@arthurmensch",
+      "reach": null,
+      "tags": [
+        "mistral",
+        "open-weights",
+        "europe"
+      ],
+      "bio": "Co-founder and CEO of Mistral AI, the Paris lab building open-weight and enterprise models.",
+      "other_link_types": [],
+      "x_username": "arthurmensch"
+    },
+    {
+      "id": "junyang-lin",
+      "name": "Junyang Lin",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://x.com/JustinLin610",
+      "handle": "@JustinLin610",
+      "reach": null,
+      "tags": [
+        "qwen",
+        "open-weights",
+        "agents"
+      ],
+      "bio": "Founder of Pragmatik Labs, a new agent-focused AI startup; until March 2026 the technical lead of Alibaba's Qwen models.",
+      "other_link_types": [
+        "GitHub"
+      ],
+      "x_username": "JustinLin610"
+    },
+    {
+      "id": "soumith-chintala",
+      "name": "Soumith Chintala",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://x.com/soumithchintala",
+      "handle": "@soumithchintala",
+      "reach": "100K+",
+      "tags": [
+        "thinking-machines",
+        "pytorch",
+        "open-source"
+      ],
+      "bio": "CTO of Thinking Machines Lab and co-creator of PyTorch, after 11 years leading AI infrastructure work at Meta.",
+      "other_link_types": [
+        "GitHub"
+      ],
+      "x_username": "soumithchintala"
+    },
+    {
+      "id": "misha-laskin",
+      "name": "Misha Laskin",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://x.com/MishaLaskin",
+      "handle": "@MishaLaskin",
+      "reach": null,
+      "tags": [
+        "reflection-ai",
+        "open-weights",
+        "reinforcement-learning"
+      ],
+      "bio": "Co-founder and CEO of Reflection AI, a US lab building open-weight frontier models and coding agents; formerly worked on Gemini at Google DeepMind.",
+      "other_link_types": [],
+      "x_username": "MishaLaskin"
+    },
+    {
+      "id": "aidan-gomez",
+      "name": "Aidan Gomez",
+      "section": "Labs",
+      "section_title": "Lab Leaders & Founders",
+      "platform": "x",
+      "url": "https://x.com/aidangomez",
+      "handle": "@aidangomez",
+      "reach": null,
+      "tags": [
+        "cohere",
+        "enterprise-ai",
+        "transformers"
+      ],
+      "bio": "Co-founder and CEO of Cohere, which builds AI models for businesses; co-author of the original Transformer paper.",
+      "other_link_types": [],
+      "x_username": "aidangomez"
+    },
+    {
+      "id": "andrej-karpathy",
+      "name": "Andrej Karpathy",
+      "section": "Research",
+      "section_title": "Researchers & Scientists",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@AndrejKarpathy",
+      "handle": "@karpathy",
+      "reach": "1M+",
+      "tags": [
+        "deep-learning",
+        "neural-nets",
+        "education"
+      ],
+      "bio": "OpenAI co-founder and former Tesla AI director who joined Anthropic's pre-training team in 2026, known for his from-scratch neural network video lectures.",
+      "other_link_types": [
+        "Twitter/X",
+        "GitHub"
+      ],
+      "youtube_handle": "@AndrejKarpathy"
+    },
+    {
+      "id": "yann-lecun",
+      "name": "Yann LeCun",
+      "section": "Research",
+      "section_title": "Researchers & Scientists",
+      "platform": "x",
+      "url": "https://twitter.com/ylecun",
+      "handle": "@ylecun",
+      "reach": "1M+",
+      "tags": [
+        "research",
+        "world-models",
+        "open-source"
+      ],
+      "bio": "Turing Award winner who left Meta to chair AMI Labs, his world-model startup; NYU professor and outspoken AI commentator.",
+      "other_link_types": [],
+      "x_username": "ylecun"
+    },
+    {
+      "id": "jim-fan",
+      "name": "Jim Fan",
+      "section": "Research",
+      "section_title": "Researchers & Scientists",
+      "platform": "x",
+      "url": "https://twitter.com/DrJimFan",
+      "handle": "@DrJimFan",
+      "reach": "500K+",
+      "tags": [
+        "agents",
+        "robotics",
+        "nvidia"
+      ],
+      "bio": "NVIDIA director of robotics and distinguished scientist who co-leads the GEAR lab, building the GR00T foundation models for humanoid robots.",
+      "other_link_types": [],
+      "x_username": "DrJimFan"
+    },
+    {
+      "id": "fran-ois-chollet",
+      "name": "François Chollet",
+      "section": "Research",
+      "section_title": "Researchers & Scientists",
+      "platform": "x",
+      "url": "https://x.com/fchollet",
+      "handle": "@fchollet",
+      "reach": "500K+",
+      "tags": [
+        "keras",
+        "deep-learning",
+        "research"
+      ],
+      "bio": "Creator of Keras and the ARC-AGI benchmark, co-founder of the AI research lab Ndea and the ARC Prize.",
+      "other_link_types": [],
+      "x_username": "fchollet"
+    },
+    {
+      "id": "fei-fei-li",
+      "name": "Fei-Fei Li",
+      "section": "Research",
+      "section_title": "Researchers & Scientists",
+      "platform": "x",
+      "url": "https://x.com/drfeifei",
+      "handle": "@drfeifei",
+      "reach": "1M+",
+      "tags": [
+        "computer-vision",
+        "research",
+        "imagenet"
+      ],
+      "bio": "Co-founder and CEO of World Labs, Stanford professor and co-director of Stanford HAI, and creator of ImageNet.",
+      "other_link_types": [],
+      "x_username": "drfeifei"
+    },
+    {
+      "id": "lilian-weng",
+      "name": "Lilian Weng",
+      "section": "Research",
+      "section_title": "Researchers & Scientists",
+      "platform": "blog",
+      "url": "https://lilianweng.github.io/",
+      "handle": "@lilianweng",
+      "reach": "100K+",
+      "tags": [
+        "research",
+        "explainers",
+        "openai"
+      ],
+      "bio": "OpenAI researcher leading work on recursive self-improvement and author of the widely read Lil'Log; co-founded Thinking Machines Lab before returning to OpenAI in 2026.",
+      "other_link_types": [
+        "GitHub",
+        "Twitter/X"
+      ]
+    },
+    {
+      "id": "riley-goodside",
+      "name": "Riley Goodside",
+      "section": "Research",
+      "section_title": "Researchers & Scientists",
+      "platform": "x",
+      "url": "https://x.com/goodside",
+      "handle": "@goodside",
+      "reach": "100K+",
+      "tags": [
+        "prompt-engineering",
+        "llms",
+        "research"
+      ],
+      "bio": "Prompt engineering pioneer known for his chatbot experiments; formerly Scale AI's first Staff Prompt Engineer and later at Google DeepMind.",
+      "other_link_types": [],
+      "x_username": "goodside"
+    },
+    {
+      "id": "mark-chen",
+      "name": "Mark Chen",
+      "section": "Research",
+      "section_title": "Researchers & Scientists",
+      "platform": "x",
+      "url": "https://x.com/markchen90",
+      "handle": "@markchen90",
+      "reach": null,
+      "tags": [
+        "openai",
+        "research",
+        "frontier-models"
+      ],
+      "bio": "Chief Research Officer at OpenAI, leading frontier model research.",
+      "other_link_types": [],
+      "x_username": "markchen90"
+    },
+    {
+      "id": "jason-wei",
+      "name": "Jason Wei",
+      "section": "Research",
+      "section_title": "Researchers & Scientists",
+      "platform": "x",
+      "url": "https://x.com/_jasonwei",
+      "handle": "@_jasonwei",
+      "reach": "100K+",
+      "tags": [
+        "research",
+        "chain-of-thought",
+        "scaling"
+      ],
+      "bio": "Research scientist at Meta Superintelligence Labs (formerly OpenAI), known for chain-of-thought prompting.",
+      "other_link_types": [],
+      "x_username": "_jasonwei"
+    },
+    {
+      "id": "nathan-lambert",
+      "name": "Nathan Lambert",
+      "section": "Research",
+      "section_title": "Researchers & Scientists",
+      "platform": "substack",
+      "url": "https://www.interconnects.ai/",
+      "handle": "@natolambert",
+      "reach": null,
+      "tags": [
+        "rlhf",
+        "alignment",
+        "newsletter"
+      ],
+      "bio": "Co-founder and executive director of Trillium Labs, a nonprofit for open frontier AI research; writes the Interconnects newsletter and formerly co-led Olmo at Ai2.",
+      "other_link_types": []
+    },
+    {
+      "id": "pranav-rajpurkar",
+      "name": "Pranav Rajpurkar",
+      "section": "Research",
+      "section_title": "Researchers & Scientists",
+      "platform": "x",
+      "url": "https://x.com/pranavrajpurkar",
+      "handle": "@pranavrajpurkar",
+      "reach": null,
+      "tags": [
+        "medical-imaging",
+        "clinical-ai",
+        "biomedical"
+      ],
+      "bio": "Harvard associate professor who built CheXNet (AI chest X-ray diagnosis) and co-founded a2z Radiology AI, now researching clinical AI agents and medical foundation models.",
+      "other_link_types": [
+        "Blog"
+      ],
+      "x_username": "pranavrajpurkar"
+    },
+    {
+      "id": "blake-richards",
+      "name": "Blake Richards",
+      "section": "Research",
+      "section_title": "Researchers & Scientists",
+      "platform": "x",
+      "url": "https://x.com/tyrell_turing",
+      "handle": "@tyrell_turing",
+      "reach": null,
+      "tags": [
+        "computational-neuroscience",
+        "deep-learning",
+        "neuroscience"
+      ],
+      "bio": "McGill/Mila associate professor and Google Research Scientist whose lab works at the intersection of computational neuroscience and deep learning, studying biologically plausible learning rules.",
+      "other_link_types": [
+        "Blog"
+      ],
+      "x_username": "tyrell_turing"
+    },
+    {
+      "id": "frank-willett",
+      "name": "Frank Willett",
+      "section": "Research",
+      "section_title": "Researchers & Scientists",
+      "platform": "x",
+      "url": "https://x.com/WillettNeuro",
+      "handle": "@WillettNeuro",
+      "reach": null,
+      "tags": [
+        "brain-computer-interface",
+        "neural-decoding",
+        "neurotech"
+      ],
+      "bio": "Stanford assistant professor of neurosurgery who builds brain-computer interfaces that turn brain signals into text and speech for people with paralysis.",
+      "other_link_types": [],
+      "x_username": "WillettNeuro"
+    },
+    {
+      "id": "noam-brown",
+      "name": "Noam Brown",
+      "section": "Research",
+      "section_title": "Researchers & Scientists",
+      "platform": "x",
+      "url": "https://x.com/polynoamial",
+      "handle": "@polynoamial",
+      "reach": "100K+",
+      "tags": [
+        "openai",
+        "reasoning",
+        "reinforcement-learning"
+      ],
+      "bio": "Research scientist at OpenAI working on reasoning; co-created the o-series reasoning models and the Libratus, Pluribus and CICERO game AIs.",
+      "other_link_types": [],
+      "x_username": "polynoamial"
+    },
+    {
+      "id": "chris-olah",
+      "name": "Chris Olah",
+      "section": "Research",
+      "section_title": "Researchers & Scientists",
+      "platform": "x",
+      "url": "https://x.com/ch402",
+      "handle": "@ch402",
+      "reach": "100K+",
+      "tags": [
+        "anthropic",
+        "interpretability",
+        "ai-safety"
+      ],
+      "bio": "Anthropic co-founder who leads its interpretability team, studying how neural networks work on the inside.",
+      "other_link_types": [
+        "Blog"
+      ],
+      "x_username": "ch402"
+    },
+    {
+      "id": "tri-dao",
+      "name": "Tri Dao",
+      "section": "Research",
+      "section_title": "Researchers & Scientists",
+      "platform": "x",
+      "url": "https://x.com/tri_dao",
+      "handle": "@tri_dao",
+      "reach": null,
+      "tags": [
+        "flashattention",
+        "inference",
+        "gpu"
+      ],
+      "bio": "Assistant professor at Princeton and chief scientist at Together AI; creator of FlashAttention and co-creator of Mamba.",
+      "other_link_types": [
+        "GitHub",
+        "Blog"
+      ],
+      "x_username": "tri_dao"
+    },
+    {
+      "id": "omar-khattab",
+      "name": "Omar Khattab",
+      "section": "Research",
+      "section_title": "Researchers & Scientists",
+      "platform": "x",
+      "url": "https://x.com/lateinteraction",
+      "handle": "@lateinteraction",
+      "reach": null,
+      "tags": [
+        "dspy",
+        "retrieval",
+        "prompt-optimization"
+      ],
+      "bio": "Assistant professor at MIT CSAIL and creator of DSPy and ColBERT, tools for programming and optimizing LLM pipelines.",
+      "other_link_types": [
+        "GitHub",
+        "Blog"
+      ],
+      "x_username": "lateinteraction"
+    },
+    {
+      "id": "shreya-shankar",
+      "name": "Shreya Shankar",
+      "section": "Research",
+      "section_title": "Researchers & Scientists",
+      "platform": "x",
+      "url": "https://x.com/sh_reya",
+      "handle": "@sh_reya",
+      "reach": null,
+      "tags": [
+        "evals",
+        "data-systems",
+        "llm-pipelines"
+      ],
+      "bio": "Researcher on LLM evals and data pipelines who created DocETL; incoming assistant professor at Carnegie Mellon.",
+      "other_link_types": [],
+      "x_username": "sh_reya"
+    },
+    {
+      "id": "freecodecamp",
+      "name": "freeCodeCamp",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@freecodecamp",
+      "handle": "@freecodecamp",
+      "reach": "1M+",
+      "tags": [
+        "courses",
+        "python",
+        "ml"
+      ],
+      "bio": "Full-length free courses on Python, ML, deep learning, and AI engineering.",
+      "other_link_types": [],
+      "youtube_handle": "@freecodecamp"
+    },
+    {
+      "id": "3blue1brown",
+      "name": "3Blue1Brown",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@3blue1brown",
+      "handle": "@3blue1brown· Grant Sanderson",
+      "reach": "1M+",
+      "tags": [
+        "math",
+        "visualization",
+        "education"
+      ],
+      "bio": "Animated explainers of math and AI ideas, made with his own open-source animation engine, Manim.",
+      "other_link_types": [
+        "GitHub"
+      ],
+      "youtube_handle": "@3blue1brown"
+    },
+    {
+      "id": "networkchuck",
+      "name": "NetworkChuck",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@NetworkChuck",
+      "handle": "@NetworkChuck· Chuck Keith",
+      "reach": "1M+",
+      "tags": [
+        "local-ai",
+        "networking",
+        "tutorials"
+      ],
+      "bio": "IT educator covering networking, cybersecurity, and local AI model deployment.",
+      "other_link_types": [],
+      "youtube_handle": "@NetworkChuck"
+    },
+    {
+      "id": "fireship",
+      "name": "Fireship",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@Fireship",
+      "handle": "@fireship· Jeff Delaney",
+      "reach": "1M+",
+      "tags": [
+        "web-dev",
+        "news",
+        "tutorials"
+      ],
+      "bio": "Fast-paced '100 seconds' tech explainers covering AI, web dev, and programming trends.",
+      "other_link_types": [
+        "GitHub",
+        "Twitter/X"
+      ],
+      "youtube_handle": "@Fireship"
+    },
+    {
+      "id": "deeplearning-ai",
+      "name": "DeepLearning.AI",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@Deeplearningai",
+      "handle": "@Deeplearningai",
+      "reach": "500K+",
+      "tags": [
+        "deep-learning",
+        "courses",
+        "mlops"
+      ],
+      "bio": "Structured AI courses, expert interviews, and MLOps tutorials from Andrew Ng.",
+      "other_link_types": [],
+      "youtube_handle": "@Deeplearningai"
+    },
+    {
+      "id": "the-coding-train",
+      "name": "The Coding Train",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@TheCodingTrain",
+      "handle": "@TheCodingTrain· Daniel Shiffman",
+      "reach": "1M+",
+      "tags": [
+        "creative-coding",
+        "neural-networks",
+        "generative-art"
+      ],
+      "bio": "Creative coding with p5.js covering neural networks, genetic algorithms, and AI art.",
+      "other_link_types": [],
+      "youtube_handle": "@TheCodingTrain"
+    },
+    {
+      "id": "two-minute-papers",
+      "name": "Two Minute Papers",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@TwoMinutePapers",
+      "handle": "@TwoMinutePapers· Károly Zsolnai-Fehér",
+      "reach": "1M+",
+      "tags": [
+        "papers",
+        "research",
+        "explainers"
+      ],
+      "bio": "Short, easy-to-follow videos that explain new AI and computer graphics research papers.",
+      "other_link_types": [],
+      "youtube_handle": "@TwoMinutePapers"
+    },
+    {
+      "id": "krish-naik",
+      "name": "Krish Naik",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@krishnaik06",
+      "handle": "@krishnaik06",
+      "reach": "1M+",
+      "tags": [
+        "machine-learning",
+        "deep-learning",
+        "data-science"
+      ],
+      "bio": "Founder of KrishAI Technologies, making tutorials and roadmaps on machine learning, deep learning, generative AI, and AI engineering.",
+      "other_link_types": [],
+      "youtube_handle": "@krishnaik06"
+    },
+    {
+      "id": "sentdex",
+      "name": "sentdex",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@sentdex",
+      "handle": "@sentdex· Harrison Kinsley",
+      "reach": "1M+",
+      "tags": [
+        "python",
+        "tutorials",
+        "ml"
+      ],
+      "bio": "Python and machine learning educator with hands-on AI programming tutorials.",
+      "other_link_types": [
+        "GitHub",
+        "Twitter/X"
+      ],
+      "youtube_handle": "@sentdex"
+    },
+    {
+      "id": "tech-with-tim",
+      "name": "Tech With Tim",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@TechWithTim",
+      "handle": "@TechWithTim· Tim Ruscica",
+      "reach": "1M+",
+      "tags": [
+        "python",
+        "ai-coding",
+        "tutorials"
+      ],
+      "bio": "Python programming and AI project tutorials including agents and ML models.",
+      "other_link_types": [],
+      "youtube_handle": "@TechWithTim"
+    },
+    {
+      "id": "corey-schafer",
+      "name": "Corey Schafer",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@coreyms",
+      "handle": "@coreyms",
+      "reach": "1M+",
+      "tags": [
+        "python",
+        "tutorials",
+        "programming"
+      ],
+      "bio": "In-depth Python tutorials essential for AI and data science development.",
+      "other_link_types": [],
+      "youtube_handle": "@coreyms"
+    },
+    {
+      "id": "statquest",
+      "name": "StatQuest",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@statquest",
+      "handle": "@statquest· Josh Starmer",
+      "reach": "1M+",
+      "tags": [
+        "statistics",
+        "ml",
+        "explainers"
+      ],
+      "bio": "Making statistics, machine learning, and neural network math friendly and intuitive.",
+      "other_link_types": [],
+      "youtube_handle": "@statquest"
+    },
+    {
+      "id": "andrew-ng",
+      "name": "Andrew Ng",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/andrewyng/",
+      "handle": "@AndrewYNg",
+      "reach": "1M+",
+      "tags": [
+        "education",
+        "deep-learning",
+        "coursera"
+      ],
+      "bio": "Co-founder of Coursera, former head of Google Brain and Baidu AI, DeepLearning.AI founder.",
+      "other_link_types": []
+    },
+    {
+      "id": "siraj-raval",
+      "name": "Siraj Raval",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@SirajRaval",
+      "handle": "@SirajRaval",
+      "reach": "500K+",
+      "tags": [
+        "machine-learning",
+        "tutorials",
+        "neural-networks"
+      ],
+      "bio": "Entertaining AI education inspiring developers to build with ML and neural networks.",
+      "other_link_types": [],
+      "youtube_handle": "@SirajRaval"
+    },
+    {
+      "id": "ai-explained",
+      "name": "AI Explained",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@aiexplained-official",
+      "handle": "@aiexplained-official",
+      "reach": "100K+",
+      "tags": [
+        "analysis",
+        "benchmarks",
+        "safety"
+      ],
+      "bio": "Deeply researched, nuanced analysis of AI capabilities, benchmarks, and safety research.",
+      "other_link_types": [],
+      "youtube_handle": "@aiexplained-official"
+    },
+    {
+      "id": "welch-labs",
+      "name": "Welch Labs",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@WelchLabs",
+      "handle": "@WelchLabs",
+      "reach": "500K+",
+      "tags": [
+        "math",
+        "neural-networks",
+        "animations"
+      ],
+      "bio": "Animated deep dives into AI, math, and neural networks, plus the book The Welch Labs Illustrated Guide to AI.",
+      "other_link_types": [],
+      "youtube_handle": "@WelchLabs"
+    },
+    {
+      "id": "nicholas-renotte",
+      "name": "Nicholas Renotte",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@NicholasRenotte",
+      "handle": "@NicholasRenotte",
+      "reach": "100K+",
+      "tags": [
+        "machine-learning",
+        "computer-vision",
+        "data-science"
+      ],
+      "bio": "IBM data scientist creating hands-on ML and computer vision tutorials.",
+      "other_link_types": [],
+      "youtube_handle": "@NicholasRenotte"
+    },
+    {
+      "id": "tina-huang",
+      "name": "Tina Huang",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@TinaHuang1",
+      "handle": "@TinaHuang1",
+      "reach": "1M+",
+      "tags": [
+        "career",
+        "productivity",
+        "data-science"
+      ],
+      "bio": "Ex-Meta data scientist and founder of the Lonely Octopus learning platform, making videos on AI tools, coding, and teaching yourself AI.",
+      "other_link_types": [
+        "Twitter/X"
+      ],
+      "youtube_handle": "@TinaHuang1"
+    },
+    {
+      "id": "ken-jee",
+      "name": "Ken Jee",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@KenJee_ds",
+      "handle": "@KenJee_ds",
+      "reach": "100K+",
+      "tags": [
+        "data-science",
+        "career",
+        "ml"
+      ],
+      "bio": "Former data science career YouTuber who now documents getting ready for AI changing work, including building his own AI SaaS products.",
+      "other_link_types": [],
+      "youtube_handle": "@KenJee_ds"
+    },
+    {
+      "id": "yannic-kilcher",
+      "name": "Yannic Kilcher",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@YannicKilcher",
+      "handle": "@YannicKilcher",
+      "reach": "100K+",
+      "tags": [
+        "papers",
+        "research",
+        "commentary"
+      ],
+      "bio": "In-depth paper reviews and commentary on ML research and industry drama.",
+      "other_link_types": [
+        "Twitter/X"
+      ],
+      "youtube_handle": "@YannicKilcher"
+    },
+    {
+      "id": "jeremy-howard",
+      "name": "Jeremy Howard",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@howardjeremyp",
+      "handle": "@howardjeremyp",
+      "reach": "100K+",
+      "tags": [
+        "fastai",
+        "education",
+        "deep-learning"
+      ],
+      "bio": "Co-founder of fast.ai and the AI lab Answer.AI, teaching practical deep learning and coding with AI through free courses and the Solveit course.",
+      "other_link_types": [
+        "GitHub",
+        "Twitter/X"
+      ],
+      "youtube_handle": "@howardjeremyp"
+    },
+    {
+      "id": "daniel-bourke",
+      "name": "Daniel Bourke",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@mrdbourke",
+      "handle": "@mrdbourke",
+      "reach": "100K+",
+      "tags": [
+        "pytorch",
+        "ml",
+        "learn-in-public"
+      ],
+      "bio": "Self-taught ML engineer sharing learn-in-public tutorials on PyTorch and deep learning.",
+      "other_link_types": [],
+      "youtube_handle": "@mrdbourke"
+    },
+    {
+      "id": "sebastian-raschka",
+      "name": "Sebastian Raschka",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "blog",
+      "url": "https://sebastianraschka.com/",
+      "handle": "@rasbt",
+      "reach": "100K+",
+      "tags": [
+        "deep-learning",
+        "pytorch",
+        "books"
+      ],
+      "bio": "ML researcher and author, writing detailed LLM and deep learning tutorials and guides.",
+      "other_link_types": [
+        "GitHub",
+        "Twitter/X"
+      ]
+    },
+    {
+      "id": "what-s-ai",
+      "name": "What's AI",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@WhatsAI",
+      "handle": "@WhatsAI· Louis-François Bouchard",
+      "reach": null,
+      "tags": [
+        "research",
+        "explainers",
+        "papers"
+      ],
+      "bio": "Co-founder of Towards AI, making short videos and guides that explain AI research, techniques, and tools in simple terms.",
+      "other_link_types": [],
+      "youtube_handle": "@WhatsAI"
+    },
+    {
+      "id": "bycloud",
+      "name": "Bycloud",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@bycloudAI",
+      "handle": "@bycloudAI",
+      "reach": "100K+",
+      "tags": [
+        "research",
+        "papers",
+        "ml"
+      ],
+      "bio": "Clear explainers of new frontier AI research papers and the ideas behind them.",
+      "other_link_types": [],
+      "youtube_handle": "@bycloudAI"
+    },
+    {
+      "id": "umar-jamil",
+      "name": "Umar Jamil",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@umarjamilai",
+      "handle": "@umarjamilai",
+      "reach": null,
+      "tags": [
+        "transformers",
+        "from-scratch",
+        "implementations"
+      ],
+      "bio": "Detailed code-along implementations of transformer architectures, attention mechanisms, and diffusion models.",
+      "other_link_types": [
+        "GitHub"
+      ],
+      "youtube_handle": "@umarjamilai"
+    },
+    {
+      "id": "abhishek-thakur",
+      "name": "Abhishek Thakur",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@abhishekkrthakur",
+      "handle": "@abhishekkrthakur",
+      "reach": "100K+",
+      "tags": [
+        "kaggle",
+        "nlp",
+        "ml"
+      ],
+      "bio": "World's first quadruple Kaggle Grandmaster, creating practical ML and NLP tutorials.",
+      "other_link_types": [
+        "GitHub",
+        "Twitter/X"
+      ],
+      "youtube_handle": "@abhishekkrthakur"
+    },
+    {
+      "id": "code-emporium",
+      "name": "Code Emporium",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@CodeEmporium",
+      "handle": "@CodeEmporium",
+      "reach": "100K+",
+      "tags": [
+        "transformers",
+        "deep-learning",
+        "explainers"
+      ],
+      "bio": "Visual explainers of transformers, attention mechanisms, and deep learning.",
+      "other_link_types": [],
+      "youtube_handle": "@CodeEmporium"
+    },
+    {
+      "id": "arxiv-insights",
+      "name": "Arxiv Insights",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@ArxivInsights",
+      "handle": "@ArxivInsights",
+      "reach": "100K+",
+      "tags": [
+        "research",
+        "papers",
+        "explainers"
+      ],
+      "bio": "Clear visual walkthroughs of influential ML and AI research papers.",
+      "other_link_types": [],
+      "youtube_handle": "@ArxivInsights"
+    },
+    {
+      "id": "jay-alammar",
+      "name": "Jay Alammar",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "blog",
+      "url": "https://jalammar.github.io/",
+      "handle": "@jalammar",
+      "reach": null,
+      "tags": [
+        "visualization",
+        "transformers",
+        "explainers"
+      ],
+      "bio": "Known for his widely used illustrated guides to transformers, BERT, and GPT; co-author of the book Hands-On Large Language Models; works at Cohere.",
+      "other_link_types": [
+        "GitHub",
+        "Twitter/X",
+        "Substack"
+      ]
+    },
+    {
+      "id": "jordan-harrod",
+      "name": "Jordan Harrod",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@JordanHarrod",
+      "handle": "@JordanHarrod",
+      "reach": null,
+      "tags": [
+        "ethics",
+        "neuroscience",
+        "research"
+      ],
+      "bio": "Harvard-MIT researcher covering AI ethics, brain-computer interfaces, and algorithmic impact.",
+      "other_link_types": [],
+      "youtube_handle": "@JordanHarrod"
+    },
+    {
+      "id": "david-ondrej",
+      "name": "David Ondrej",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@DavidOndrej",
+      "handle": "@DavidOndrej",
+      "reach": "100K+",
+      "tags": [
+        "ai-agents",
+        "ai-coding",
+        "tutorials"
+      ],
+      "bio": "Hands-on videos on building AI agents and coding with AI tools, plus talks on working in the AI era.",
+      "other_link_types": [
+        "Twitter/X"
+      ],
+      "youtube_handle": "@DavidOndrej"
+    },
+    {
+      "id": "indydevdan",
+      "name": "IndyDevDan",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@indydevdan",
+      "handle": "@indydevdan",
+      "reach": "100K+",
+      "tags": [
+        "agentic-coding",
+        "claude-code",
+        "ai-agents"
+      ],
+      "bio": "Teaches agentic engineering: planning, prompting and running AI coding agents on real software.",
+      "other_link_types": [
+        "Blog"
+      ],
+      "youtube_handle": "@indydevdan"
+    },
+    {
+      "id": "leon-van-zyl",
+      "name": "Leon van Zyl",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@leonvanzyl",
+      "handle": "@leonvanzyl",
+      "reach": "100K+",
+      "tags": [
+        "ai-agents",
+        "automation",
+        "tutorials"
+      ],
+      "bio": "Step-by-step tutorials on building AI agents, automation workflows and apps with agentic coding tools.",
+      "other_link_types": [
+        "Twitter/X",
+        "Blog"
+      ],
+      "youtube_handle": "@leonvanzyl"
+    },
+    {
+      "id": "matt-pocock",
+      "name": "Matt Pocock",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@mattpocockuk",
+      "handle": "@mattpocockuk",
+      "reach": "100K+",
+      "tags": [
+        "ai-engineering",
+        "typescript",
+        "ai-coding"
+      ],
+      "bio": "TypeScript teacher who now runs AI Hero, with practical lessons on building with LLMs and AI coding for working engineers.",
+      "other_link_types": [
+        "Twitter/X",
+        "Blog"
+      ],
+      "youtube_handle": "@mattpocockuk"
+    },
+    {
+      "id": "1littlecoder",
+      "name": "1littlecoder",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@1littlecoder",
+      "handle": "@1littlecoder",
+      "reach": "100K+",
+      "tags": [
+        "open-source",
+        "llms",
+        "tutorials"
+      ],
+      "bio": "Practical AI news and short tutorials, with a focus on open-source models you can run and test yourself.",
+      "other_link_types": [
+        "Twitter/X"
+      ],
+      "youtube_handle": "@1littlecoder"
+    },
+    {
+      "id": "neuralnine",
+      "name": "NeuralNine",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@NeuralNine",
+      "handle": "@NeuralNine· Florian Dedov",
+      "reach": "100K+",
+      "tags": [
+        "python",
+        "ml",
+        "llms"
+      ],
+      "bio": "Python and machine learning tutorials, now with many videos on LLM APIs, AI coding tools and new model releases.",
+      "other_link_types": [
+        "GitHub",
+        "Twitter/X"
+      ],
+      "youtube_handle": "@NeuralNine"
+    },
+    {
+      "id": "jeff-su",
+      "name": "Jeff Su",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@JeffSu",
+      "handle": "@JeffSu",
+      "reach": "1M+",
+      "tags": [
+        "productivity",
+        "ai-tools",
+        "chatgpt"
+      ],
+      "bio": "Product marketer who teaches how to use ChatGPT, Claude, Gemini and other AI tools to work faster.",
+      "other_link_types": [
+        "LinkedIn"
+      ],
+      "youtube_handle": "@JeffSu"
+    },
+    {
+      "id": "alex-ziskind",
+      "name": "Alex Ziskind",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@AZisk",
+      "handle": "@AZisk",
+      "reach": "500K+",
+      "tags": [
+        "local-ai",
+        "hardware",
+        "benchmarks"
+      ],
+      "bio": "Developer who tests local AI hardware, from Macs to DGX Spark boxes, and benchmarks running LLMs on them.",
+      "other_link_types": [
+        "Twitter/X"
+      ],
+      "youtube_handle": "@AZisk"
+    },
+    {
+      "id": "liam-ottley",
+      "name": "Liam Ottley",
+      "section": "Learn",
+      "section_title": "Educators & Explainers",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@LiamOttley",
+      "handle": "@LiamOttley",
+      "reach": "500K+",
+      "tags": [
+        "automation",
+        "ai-agents",
+        "business"
+      ],
+      "bio": "Founder of Morningside AI who teaches how to build AI automations and agents for real businesses.",
+      "other_link_types": [
+        "Twitter/X"
+      ],
+      "youtube_handle": "@LiamOttley"
+    },
+    {
+      "id": "aleksa-gordi",
+      "name": "Aleksa Gordić",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "x",
+      "url": "https://x.com/gordic_aleksa",
+      "handle": "@gordic_aleksa",
+      "reach": null,
+      "tags": [
+        "papers",
+        "implementations",
+        "transformers"
+      ],
+      "bio": "Works on scaling NVIDIA's Nemotron models; former Google DeepMind and Microsoft engineer, known for his paper walkthroughs and llm.c work.",
+      "other_link_types": [
+        "Blog",
+        "GitHub",
+        "YouTube"
+      ],
+      "x_username": "gordic_aleksa"
+    },
+    {
+      "id": "ai-jason",
+      "name": "AI Jason",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@AIJasonZ",
+      "handle": "@AIJasonZ· Jason Zhou",
+      "reach": "100K+",
+      "tags": [
+        "agents",
+        "rag",
+        "tutorials"
+      ],
+      "bio": "Product designer Jason Zhou shares hands-on AI agent experiments and runs the AI Builder Club community.",
+      "other_link_types": [
+        "Twitter/X"
+      ],
+      "youtube_handle": "@AIJasonZ"
+    },
+    {
+      "id": "prompt-engineering",
+      "name": "Prompt Engineering",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@engineerprompt",
+      "handle": "@engineerprompt",
+      "reach": "100K+",
+      "tags": [
+        "prompting",
+        "llm-apps",
+        "automation"
+      ],
+      "bio": "Prompt engineering techniques, LLM application development, and AI automation workflows.",
+      "other_link_types": [
+        "Twitter/X"
+      ],
+      "youtube_handle": "@engineerprompt"
+    },
+    {
+      "id": "james-briggs",
+      "name": "James Briggs",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@jamesbriggs",
+      "handle": "@jamesbriggs",
+      "reach": null,
+      "tags": [
+        "rag",
+        "vector-db",
+        "langchain"
+      ],
+      "bio": "Founder of Aurelio AI, making tutorials on RAG, AI agents, vector databases and production LLM apps.",
+      "other_link_types": [
+        "GitHub",
+        "Twitter/X"
+      ],
+      "youtube_handle": "@jamesbriggs"
+    },
+    {
+      "id": "simon-willison",
+      "name": "Simon Willison",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "blog",
+      "url": "https://simonwillison.net/",
+      "handle": "@simonw",
+      "reach": "100K+",
+      "tags": [
+        "llm-tools",
+        "datasette",
+        "prompting"
+      ],
+      "bio": "Creator of Datasette, prolific blogger covering LLM tools, prompt engineering, and practical AI.",
+      "other_link_types": [
+        "GitHub",
+        "Twitter/X"
+      ]
+    },
+    {
+      "id": "cole-medin",
+      "name": "Cole Medin",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@ColeMedin",
+      "handle": "@ColeMedin",
+      "reach": "100K+",
+      "tags": [
+        "agents",
+        "n8n",
+        "local-ai"
+      ],
+      "bio": "Building AI agents, n8n automations, and local AI tool integrations with hands-on tutorials.",
+      "other_link_types": [
+        "GitHub"
+      ],
+      "youtube_handle": "@ColeMedin"
+    },
+    {
+      "id": "dave-ebbelaar",
+      "name": "Dave Ebbelaar",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@daveebbelaar",
+      "handle": "@daveebbelaar",
+      "reach": "100K+",
+      "tags": [
+        "agents",
+        "python",
+        "workflows"
+      ],
+      "bio": "AI engineer and founder of Datalumina, teaching developers how to take AI agents and LLM apps from prototype to production.",
+      "other_link_types": [
+        "GitHub"
+      ],
+      "youtube_handle": "@daveebbelaar"
+    },
+    {
+      "id": "corbin-brown",
+      "name": "Corbin Brown",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@Corbin_Brown",
+      "handle": "@Corbin_Brown",
+      "reach": "100K+",
+      "tags": [
+        "ai-coding",
+        "automation",
+        "python"
+      ],
+      "bio": "AI coding tutorials on building real software without learning to code.",
+      "other_link_types": [],
+      "youtube_handle": "@Corbin_Brown"
+    },
+    {
+      "id": "assemblyai",
+      "name": "AssemblyAI",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@AssemblyAI",
+      "handle": "@AssemblyAI",
+      "reach": "100K+",
+      "tags": [
+        "nlp",
+        "speech-ai",
+        "developer"
+      ],
+      "bio": "Developer-focused tutorials on speech AI, NLP, and building with LLMs.",
+      "other_link_types": [],
+      "youtube_handle": "@AssemblyAI"
+    },
+    {
+      "id": "shawn-wang-swyx",
+      "name": "Shawn Wang (swyx)",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "podcast",
+      "url": "https://www.latent.space/",
+      "handle": "@swyxio",
+      "reach": "100K+",
+      "tags": [
+        "ai-engineering",
+        "podcast",
+        "latent-space"
+      ],
+      "bio": "Editor and co-host of the Latent Space podcast and co-founder of the AI Engineer conference; also works at Cognition.",
+      "other_link_types": [
+        "GitHub",
+        "Twitter/X",
+        "Blog"
+      ]
+    },
+    {
+      "id": "peter-steinberger",
+      "name": "Peter Steinberger",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "x",
+      "url": "https://x.com/steipete",
+      "handle": "@steipete",
+      "reach": "100K+",
+      "tags": [
+        "ai-coding",
+        "agents",
+        "openai"
+      ],
+      "bio": "Founder of PSPDFKit and creator of the open-source agent OpenClaw; joined OpenAI in 2026 to bring AI agents to more people.",
+      "other_link_types": [],
+      "x_username": "steipete"
+    },
+    {
+      "id": "maxime-labonne",
+      "name": "Maxime Labonne",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "blog",
+      "url": "https://mlabonne.github.io/blog/",
+      "handle": "@mlabonne",
+      "reach": null,
+      "tags": [
+        "fine-tuning",
+        "llm-course",
+        "open-source"
+      ],
+      "bio": "Head of Post-Training at Liquid AI and author of the popular open-source LLM Course and the LLM Engineer's Handbook.",
+      "other_link_types": [
+        "GitHub",
+        "Twitter/X"
+      ]
+    },
+    {
+      "id": "harrison-chase",
+      "name": "Harrison Chase",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "github",
+      "url": "https://github.com/hwchase17",
+      "handle": "@hwchase17",
+      "reach": null,
+      "tags": [
+        "langchain",
+        "agents",
+        "frameworks"
+      ],
+      "bio": "Co-founder and CEO of LangChain, the open-source framework and company for building LLM apps and agents.",
+      "other_link_types": [
+        "Twitter/X"
+      ]
+    },
+    {
+      "id": "sam-witteveen",
+      "name": "Sam Witteveen",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@samwitteveenai",
+      "handle": "@samwitteveenai",
+      "reach": "100K+",
+      "tags": [
+        "google-ai",
+        "langchain",
+        "tutorials"
+      ],
+      "bio": "Co-founder and CEO of Red Dragon AI and Google Developer Expert, making tutorials on AI agents, Google AI tools and LLM apps.",
+      "other_link_types": [
+        "GitHub",
+        "Twitter/X"
+      ],
+      "youtube_handle": "@samwitteveenai"
+    },
+    {
+      "id": "eric-hartford",
+      "name": "Eric Hartford",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "github",
+      "url": "https://github.com/ehartford",
+      "handle": "@ehartford",
+      "reach": null,
+      "tags": [
+        "fine-tuning",
+        "dolphin",
+        "open-source"
+      ],
+      "bio": "Open-source LLM fine-tuner known for uncensored model variants and the Dolphin series.",
+      "other_link_types": [
+        "Twitter/X"
+      ]
+    },
+    {
+      "id": "elvis-saravia",
+      "name": "Elvis Saravia",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "github",
+      "url": "https://www.promptingguide.ai/",
+      "handle": "@omarsar",
+      "reach": null,
+      "tags": [
+        "prompting",
+        "guides",
+        "education"
+      ],
+      "bio": "Creator of the Prompt Engineering Guide, a widely used free guide to LLM prompt techniques.",
+      "other_link_types": [
+        "GitHub",
+        "Twitter/X"
+      ]
+    },
+    {
+      "id": "georgi-gerganov",
+      "name": "Georgi Gerganov",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "github",
+      "url": "https://github.com/ggerganov",
+      "handle": "@ggerganov",
+      "reach": null,
+      "tags": [
+        "llama-cpp",
+        "ggml",
+        "local-ai"
+      ],
+      "bio": "Creator of llama.cpp and GGML for fast local LLM inference; his ggml.ai team joined Hugging Face in 2026.",
+      "other_link_types": [
+        "Twitter/X"
+      ]
+    },
+    {
+      "id": "hamel-husain",
+      "name": "Hamel Husain",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@hamelhusain7140",
+      "handle": "@HamelHusain",
+      "reach": null,
+      "tags": [
+        "mlops",
+        "production-ml",
+        "engineering"
+      ],
+      "bio": "ML engineer (ex-GitHub, Airbnb) who runs Parlance Labs and teaches a popular course on AI evals with Shreya Shankar.",
+      "other_link_types": [
+        "Blog"
+      ],
+      "youtube_handle": "@hamelhusain7140"
+    },
+    {
+      "id": "armin-ronacher",
+      "name": "Armin Ronacher",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "x",
+      "url": "https://x.com/mitsuhiko",
+      "handle": "@mitsuhiko",
+      "reach": null,
+      "tags": [
+        "coding-agents",
+        "open-source",
+        "python"
+      ],
+      "bio": "Creator of Flask and co-founder of Earendil, which now builds the open-source Pi coding agent; writes widely read posts on working with coding agents.",
+      "other_link_types": [
+        "Blog",
+        "GitHub"
+      ],
+      "x_username": "mitsuhiko"
+    },
+    {
+      "id": "addy-osmani",
+      "name": "Addy Osmani",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "x",
+      "url": "https://x.com/addyosmani",
+      "handle": "@addyosmani",
+      "reach": "100K+",
+      "tags": [
+        "coding-agents",
+        "claude-code",
+        "developer-experience"
+      ],
+      "bio": "Works on Claude Code at Anthropic after 14 years at Google; writes practical guides on coding agents and AI-assisted development.",
+      "other_link_types": [
+        "Blog",
+        "GitHub"
+      ],
+      "x_username": "addyosmani"
+    },
+    {
+      "id": "eugene-yan",
+      "name": "Eugene Yan",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "x",
+      "url": "https://x.com/eugeneyan",
+      "handle": "@eugeneyan",
+      "reach": null,
+      "tags": [
+        "evals",
+        "applied-ml",
+        "llm-products"
+      ],
+      "bio": "Member of technical staff at Anthropic, formerly at Amazon; his blog is a go-to source on LLM evals, recommender systems and building AI products.",
+      "other_link_types": [
+        "Blog",
+        "GitHub"
+      ],
+      "x_username": "eugeneyan"
+    },
+    {
+      "id": "philipp-schmid",
+      "name": "Philipp Schmid",
+      "section": "Build",
+      "section_title": "AI Engineering & Open Source",
+      "platform": "x",
+      "url": "https://x.com/_philschmid",
+      "handle": "@_philschmid",
+      "reach": "100K+",
+      "tags": [
+        "gemini",
+        "agents",
+        "tutorials"
+      ],
+      "bio": "Works on agents and the Gemini API developer experience at Google DeepMind; ex-Hugging Face tech lead who shares hands-on guides and AI news.",
+      "other_link_types": [
+        "Blog",
+        "GitHub"
+      ],
+      "x_username": "_philschmid"
+    },
+    {
+      "id": "guillermo-rauch",
+      "name": "Guillermo Rauch",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "x",
+      "url": "https://x.com/rauchg",
+      "handle": "@rauchg",
+      "reach": "500K+",
+      "tags": [
+        "ai-coding",
+        "vercel",
+        "v0"
+      ],
+      "bio": "CEO of Vercel and creator of v0, pioneering AI-assisted web development.",
+      "other_link_types": [],
+      "x_username": "rauchg"
+    },
+    {
+      "id": "kevin-stratvert",
+      "name": "Kevin Stratvert",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@KevinStratvert",
+      "handle": "@KevinStratvert",
+      "reach": "1M+",
+      "tags": [
+        "ai-tools",
+        "productivity",
+        "microsoft"
+      ],
+      "bio": "Ex-Microsoft PM teaching AI tools, productivity software, and automation workflows.",
+      "other_link_types": [],
+      "youtube_handle": "@KevinStratvert"
+    },
+    {
+      "id": "matt-wolfe",
+      "name": "Matt Wolfe",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@mreflow",
+      "handle": "@mreflow",
+      "reach": "1M+",
+      "tags": [
+        "ai-tools",
+        "news",
+        "reviews"
+      ],
+      "bio": "AI tools curator running FutureTools.io, covering the latest AI products, news, and workflows.",
+      "other_link_types": [
+        "Twitter/X",
+        "Blog"
+      ],
+      "youtube_handle": "@mreflow"
+    },
+    {
+      "id": "skill-leap-ai",
+      "name": "Skill Leap AI",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@SkillLeapAI",
+      "handle": "@SkillLeapAI· Saj Adib",
+      "reach": "100K+",
+      "tags": [
+        "ai-tools",
+        "generative-ai",
+        "automation"
+      ],
+      "bio": "Fast-paced tutorials on the latest AI tools, APIs, and generative AI workflows.",
+      "other_link_types": [],
+      "youtube_handle": "@SkillLeapAI"
+    },
+    {
+      "id": "nate-herk",
+      "name": "Nate Herk",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@NateHerk",
+      "handle": "@NateHerk",
+      "reach": "1M+",
+      "tags": [
+        "ai-automation",
+        "n8n",
+        "agents"
+      ],
+      "bio": "AI automation educator teaching n8n workflows and no-code AI agents; runs the AI Automation Society community.",
+      "other_link_types": [],
+      "youtube_handle": "@NateHerk"
+    },
+    {
+      "id": "the-ai-advantage",
+      "name": "The AI Advantage",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@aiadvantage",
+      "handle": "@aiadvantage· Igor Pogany",
+      "reach": "100K+",
+      "tags": [
+        "ai-tools",
+        "productivity",
+        "automation"
+      ],
+      "bio": "Practical AI tool tutorials and workflow automation for productivity and business.",
+      "other_link_types": [],
+      "youtube_handle": "@aiadvantage"
+    },
+    {
+      "id": "matthew-berman",
+      "name": "Matthew Berman",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@matthew_berman",
+      "handle": "@matthew_berman",
+      "reach": "500K+",
+      "tags": [
+        "llms",
+        "reviews",
+        "local-ai"
+      ],
+      "bio": "Hands-on reviews of the latest LLMs, AI tools, and local model setups.",
+      "other_link_types": [
+        "Twitter/X"
+      ],
+      "youtube_handle": "@matthew_berman"
+    },
+    {
+      "id": "the-ai-grid",
+      "name": "The AI Grid",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@TheAiGrid",
+      "handle": "@TheAiGrid",
+      "reach": "100K+",
+      "tags": [
+        "ai-news",
+        "ai-tools",
+        "demos"
+      ],
+      "bio": "Daily coverage of the newest AI tools with in-depth demos and breakdowns.",
+      "other_link_types": [],
+      "youtube_handle": "@TheAiGrid"
+    },
+    {
+      "id": "curious-refuge",
+      "name": "Curious Refuge",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@CuriousRefuge",
+      "handle": "@CuriousRefuge",
+      "reach": "100K+",
+      "tags": [
+        "ai-filmmaking",
+        "video-generation",
+        "creative-ai"
+      ],
+      "bio": "Online school and channel for AI filmmaking, covering AI video generation and AI art tools.",
+      "other_link_types": [],
+      "youtube_handle": "@CuriousRefuge"
+    },
+    {
+      "id": "ruben-hassid",
+      "name": "Ruben Hassid",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "linkedin",
+      "url": "https://ruben.substack.com/",
+      "handle": "@rubenhassid",
+      "reach": "500K+",
+      "tags": [
+        "tutorials",
+        "content-creation",
+        "beginner-friendly"
+      ],
+      "bio": "Writes How to AI, a free newsletter of step-by-step AI guides, and founded EasyGen, an AI tool for LinkedIn posts.",
+      "other_link_types": []
+    },
+    {
+      "id": "all-about-ai",
+      "name": "All About AI",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@AllAboutAI",
+      "handle": "@AllAboutAI",
+      "reach": "100K+",
+      "tags": [
+        "local-ai",
+        "tools",
+        "tutorials"
+      ],
+      "bio": "Practical AI tool tutorials, local LLM setups, and AI-powered creative workflows.",
+      "other_link_types": [
+        "GitHub"
+      ],
+      "youtube_handle": "@AllAboutAI"
+    },
+    {
+      "id": "world-of-ai",
+      "name": "World of AI",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@intheworldofai",
+      "handle": "@intheworldofai",
+      "reach": "100K+",
+      "tags": [
+        "open-source",
+        "models",
+        "tutorials"
+      ],
+      "bio": "Covering the latest open-source AI models, tools, and step-by-step installation tutorials.",
+      "other_link_types": [
+        "Twitter/X"
+      ],
+      "youtube_handle": "@intheworldofai"
+    },
+    {
+      "id": "ai-foundations",
+      "name": "AI Foundations",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@ai-foundations",
+      "handle": "@ai-foundations· Drake Surach",
+      "reach": "100K+",
+      "tags": [
+        "ai-tools",
+        "vibe-coding",
+        "entrepreneurs"
+      ],
+      "bio": "Simplifies AI for creators and entrepreneurs with vibe coding and agent tutorials.",
+      "other_link_types": [],
+      "youtube_handle": "@ai-foundations",
+      "note": "handle not resolved in first pass"
+    },
+    {
+      "id": "riley-brown",
+      "name": "Riley Brown",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@rileybrownai",
+      "handle": "@rileybrownai",
+      "reach": "100K+",
+      "tags": [
+        "creator-economy",
+        "vibe-coding",
+        "business"
+      ],
+      "bio": "Teaches vibe coding and building with AI agents; hosts the A New Vibe podcast with the team behind the Vibecode app builder.",
+      "other_link_types": [
+        "Twitter/X"
+      ],
+      "youtube_handle": "@rileybrownai"
+    },
+    {
+      "id": "alex-finn",
+      "name": "Alex Finn",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@AlexFinnOfficial",
+      "handle": "@AlexFinnOfficial",
+      "reach": "100K+",
+      "tags": [
+        "no-code",
+        "ai-apps",
+        "business"
+      ],
+      "bio": "Vibe coding tutorials on Claude Code and Codex; built the AI app Creator Buddy without writing code by hand.",
+      "other_link_types": [
+        "Twitter/X"
+      ],
+      "youtube_handle": "@AlexFinnOfficial"
+    },
+    {
+      "id": "ai-andy",
+      "name": "AI Andy",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@TheAIAndy",
+      "handle": "@TheAIAndy· Andy Hafell",
+      "reach": "100K+",
+      "tags": [
+        "ai-tools",
+        "reviews",
+        "generative-ai"
+      ],
+      "bio": "AI tool reviews, tutorials, and practical guides for generative AI products.",
+      "other_link_types": [
+        "Twitter/X"
+      ],
+      "youtube_handle": "@TheAIAndy"
+    },
+    {
+      "id": "boris-cherny",
+      "name": "Boris Cherny",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "x",
+      "url": "https://x.com/bcherny",
+      "handle": "@bcherny",
+      "reach": "500K+",
+      "tags": [
+        "claude-code",
+        "coding-agents",
+        "anthropic"
+      ],
+      "bio": "Creator and head of Claude Code at Anthropic; author of Programming TypeScript.",
+      "other_link_types": [
+        "GitHub",
+        "Blog"
+      ],
+      "x_username": "bcherny"
+    },
+    {
+      "id": "thibault-sottiaux",
+      "name": "Thibault Sottiaux",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "x",
+      "url": "https://x.com/thsottiaux",
+      "handle": "@thsottiaux",
+      "reach": "500K+",
+      "tags": [
+        "codex",
+        "openai",
+        "coding-agents"
+      ],
+      "bio": "Head of Codex at OpenAI, also working across ChatGPT; posts Codex updates and plans directly.",
+      "other_link_types": [],
+      "x_username": "thsottiaux"
+    },
+    {
+      "id": "michael-truell",
+      "name": "Michael Truell",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "x",
+      "url": "https://x.com/mntruell",
+      "handle": "@mntruell",
+      "reach": "100K+",
+      "tags": [
+        "cursor",
+        "coding-agents",
+        "ide"
+      ],
+      "bio": "Co-founder of Cursor, the AI code editor, now building at SpaceXAI after SpaceX bought Cursor in 2026.",
+      "other_link_types": [],
+      "x_username": "mntruell"
+    },
+    {
+      "id": "amjad-masad",
+      "name": "Amjad Masad",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "x",
+      "url": "https://x.com/amasad",
+      "handle": "@amasad",
+      "reach": "100K+",
+      "tags": [
+        "replit",
+        "vibe-coding",
+        "agents"
+      ],
+      "bio": "Co-founder and CEO of Replit, whose AI agent builds and deploys apps from plain-language prompts.",
+      "other_link_types": [],
+      "x_username": "amasad"
+    },
+    {
+      "id": "scott-wu",
+      "name": "Scott Wu",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "x",
+      "url": "https://x.com/ScottWu46",
+      "handle": "@ScottWu46",
+      "reach": "100K+",
+      "tags": [
+        "cognition",
+        "devin",
+        "coding-agents"
+      ],
+      "bio": "Co-founder and CEO of Cognition, maker of the Devin coding agent and owner of Windsurf.",
+      "other_link_types": [],
+      "x_username": "ScottWu46"
+    },
+    {
+      "id": "mario-zechner",
+      "name": "Mario Zechner",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "x",
+      "url": "https://x.com/badlogicgames",
+      "handle": "@badlogicgames",
+      "reach": null,
+      "tags": [
+        "pi",
+        "coding-agents",
+        "open-source"
+      ],
+      "bio": "Creator of Pi, a popular open-source coding-agent toolkit that he now builds at Earendil; earlier created the libGDX game framework.",
+      "other_link_types": [
+        "GitHub",
+        "Blog"
+      ],
+      "x_username": "badlogicgames"
+    },
+    {
+      "id": "daniel-han",
+      "name": "Daniel Han",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "x",
+      "url": "https://x.com/danielhanchen",
+      "handle": "@danielhanchen",
+      "reach": null,
+      "tags": [
+        "unsloth",
+        "fine-tuning",
+        "open-weights"
+      ],
+      "bio": "Co-founder of Unsloth, the open-source tool for fast, low-memory fine-tuning and running of open LLMs; often among the first to fix bugs in new open models.",
+      "other_link_types": [
+        "GitHub"
+      ],
+      "x_username": "danielhanchen"
+    },
+    {
+      "id": "steve-yegge",
+      "name": "Steve Yegge",
+      "section": "Tools",
+      "section_title": "Tools, Demos & Creators",
+      "platform": "x",
+      "url": "https://x.com/Steve_Yegge",
+      "handle": "@Steve_Yegge",
+      "reach": null,
+      "tags": [
+        "coding-agents",
+        "multi-agent",
+        "vibe-coding"
+      ],
+      "bio": "Veteran engineer and blogger who created Gas Town, an open-source manager for many coding agents, and Beads, a memory tool for coding agents.",
+      "other_link_types": [
+        "GitHub"
+      ],
+      "x_username": "Steve_Yegge"
+    },
+    {
+      "id": "matt-shumer",
+      "name": "Matt Shumer",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "x",
+      "url": "https://x.com/mattshumer_",
+      "handle": "@mattshumer_",
+      "reach": "100K+",
+      "tags": [
+        "ai-tools",
+        "startups",
+        "agents"
+      ],
+      "bio": "Founder and former CEO of HyperWrite, now an AI investor and writer known for his viral 2026 essay \"Something Big Is Happening\".",
+      "other_link_types": [],
+      "x_username": "mattshumer_"
+    },
+    {
+      "id": "lukas-biewald",
+      "name": "Lukas Biewald",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "podcast",
+      "url": "https://wandb.ai/site/resources/podcast/",
+      "handle": "@l2k",
+      "reach": null,
+      "tags": [
+        "wandb",
+        "mlops",
+        "podcast"
+      ],
+      "bio": "Co-founder of Weights & Biases, now SVP of AI initiatives at CoreWeave after its 2025 acquisition, and host of the Gradient Dissent podcast.",
+      "other_link_types": [
+        "Twitter/X",
+        "GitHub"
+      ]
+    },
+    {
+      "id": "wes-roth",
+      "name": "Wes Roth",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@WesRoth",
+      "handle": "@WesRoth",
+      "reach": "100K+",
+      "tags": [
+        "agi",
+        "safety",
+        "commentary"
+      ],
+      "bio": "AI commentary covering AGI developments, safety, and societal implications of artificial intelligence.",
+      "other_link_types": [
+        "Twitter/X"
+      ],
+      "youtube_handle": "@WesRoth"
+    },
+    {
+      "id": "lex-fridman",
+      "name": "Lex Fridman",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@lexfridman",
+      "handle": "@lexfridman",
+      "reach": "1M+",
+      "tags": [
+        "interviews",
+        "agi",
+        "science"
+      ],
+      "bio": "MIT researcher hosting long-form interviews with leading minds in AI, science, and technology.",
+      "other_link_types": [
+        "Twitter/X",
+        "Podcast"
+      ],
+      "youtube_handle": "@lexfridman"
+    },
+    {
+      "id": "zain-kahn",
+      "name": "Zain Kahn",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/zainkahn/",
+      "handle": "@heyzainkahn",
+      "reach": "1M+",
+      "tags": [
+        "newsletter",
+        "prompts",
+        "productivity"
+      ],
+      "bio": "Co-founder of Superhuman AI, a daily newsletter with short, practical updates on AI news and tools for work.",
+      "other_link_types": [
+        "Blog"
+      ]
+    },
+    {
+      "id": "ethan-mollick",
+      "name": "Ethan Mollick",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "x",
+      "url": "https://x.com/emollick",
+      "handle": "@emollick",
+      "reach": "500K+",
+      "tags": [
+        "ai-at-work",
+        "education",
+        "research"
+      ],
+      "bio": "Wharton professor who studies how AI changes work and education; writes the One Useful Thing newsletter and wrote the books Co-Intelligence and Co-Existence.",
+      "other_link_types": [
+        "Substack"
+      ],
+      "x_username": "emollick"
+    },
+    {
+      "id": "rowan-cheung",
+      "name": "Rowan Cheung",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "x",
+      "url": "https://x.com/rowancheung",
+      "handle": "@rowancheung",
+      "reach": "500K+",
+      "tags": [
+        "newsletter",
+        "ai-news",
+        "tools"
+      ],
+      "bio": "Founder of The Rundown AI, a daily AI newsletter with an online learning platform for using AI at work.",
+      "other_link_types": [
+        "Blog"
+      ],
+      "x_username": "rowancheung"
+    },
+    {
+      "id": "kevin-roose",
+      "name": "Kevin Roose",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "x",
+      "url": "https://x.com/kevinroose",
+      "handle": "@kevinroose",
+      "reach": "500K+",
+      "tags": [
+        "journalism",
+        "podcast",
+        "machine-gods"
+      ],
+      "bio": "Tech journalist and former New York Times columnist who co-hosts Machine Gods, a new AI podcast made with NPR, after four years hosting Hard Fork.",
+      "other_link_types": [
+        "YouTube",
+        "Substack"
+      ],
+      "x_username": "kevinroose"
+    },
+    {
+      "id": "pascal-bornet",
+      "name": "Pascal Bornet",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/pascalbornet/",
+      "handle": "@pascalbornet",
+      "reach": "500K+",
+      "tags": [
+        "agentic-ai",
+        "automation",
+        "future-of-work"
+      ],
+      "bio": "AI and automation author and keynote speaker whose books include Intelligent Automation, Irreplaceable and Agentic Artificial Intelligence.",
+      "other_link_types": [
+        "Blog"
+      ]
+    },
+    {
+      "id": "allie-k-miller",
+      "name": "Allie K. Miller",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/alliekmiller/",
+      "handle": "@alliekmiller",
+      "reach": "500K+",
+      "tags": [
+        "business-strategy",
+        "investing",
+        "enterprise-ai"
+      ],
+      "bio": "CEO of Open Machine, an AI advisory firm, and former AWS head of machine learning for startups; writes about AI business strategy.",
+      "other_link_types": []
+    },
+    {
+      "id": "casey-newton",
+      "name": "Casey Newton",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "x",
+      "url": "https://x.com/CaseyNewton",
+      "handle": "@CaseyNewton",
+      "reach": "100K+",
+      "tags": [
+        "journalism",
+        "podcast",
+        "platformer"
+      ],
+      "bio": "Founder of the Platformer tech newsletter who co-hosts Machine Gods, a new AI podcast made with NPR, after four years hosting Hard Fork at The New York Times.",
+      "other_link_types": [
+        "Blog",
+        "YouTube"
+      ],
+      "x_username": "CaseyNewton"
+    },
+    {
+      "id": "robert-scoble",
+      "name": "Robert Scoble",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "x",
+      "url": "https://x.com/Scobleizer",
+      "handle": "@Scobleizer",
+      "reach": "100K+",
+      "tags": [
+        "futurism",
+        "spatial-computing",
+        "trends"
+      ],
+      "bio": "Tech futurist covering AI, spatial computing, and emerging tech trends.",
+      "other_link_types": [],
+      "x_username": "Scobleizer"
+    },
+    {
+      "id": "dwarkesh-patel",
+      "name": "Dwarkesh Patel",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "podcast",
+      "url": "https://www.dwarkesh.com/",
+      "handle": "@dwarkesh_sp",
+      "reach": "100K+",
+      "tags": [
+        "podcast",
+        "interviews",
+        "research"
+      ],
+      "bio": "Host of Dwarkesh Podcast with in-depth AI leader interviews.",
+      "other_link_types": []
+    },
+    {
+      "id": "david-shapiro",
+      "name": "David Shapiro",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@DaveShap",
+      "handle": "@DaveShap",
+      "reach": "100K+",
+      "tags": [
+        "agi",
+        "post-labor-economics",
+        "future-of-work"
+      ],
+      "bio": "YouTuber and author who talks about AI acceleration and post-labor economics, the idea of an economy where machines do most work.",
+      "other_link_types": [
+        "GitHub",
+        "Twitter/X",
+        "Substack"
+      ],
+      "youtube_handle": "@DaveShap"
+    },
+    {
+      "id": "elad-gil",
+      "name": "Elad Gil",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "x",
+      "url": "https://x.com/eladgil",
+      "handle": "@eladgil",
+      "reach": "100K+",
+      "tags": [
+        "vc",
+        "startups",
+        "ai-investing"
+      ],
+      "bio": "Investor and author of High Growth Handbook who co-hosts the No Priors AI podcast with Sarah Guo.",
+      "other_link_types": [
+        "Podcast",
+        "Blog"
+      ],
+      "x_username": "eladgil"
+    },
+    {
+      "id": "sarah-guo",
+      "name": "Sarah Guo",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "podcast",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "handle": "@saranormous",
+      "reach": "100K+",
+      "tags": [
+        "podcast",
+        "vc",
+        "startups"
+      ],
+      "bio": "Founder of Conviction VC and co-host of No Priors podcast covering AI startups.",
+      "other_link_types": [
+        "Twitter/X",
+        "Blog"
+      ]
+    },
+    {
+      "id": "ben-tossell",
+      "name": "Ben Tossell",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "substack",
+      "url": "https://www.bensbites.com/",
+      "handle": "@bentossell",
+      "reach": "100K+",
+      "tags": [
+        "newsletter",
+        "ai-tools",
+        "no-code"
+      ],
+      "bio": "Founder of Ben's Bites, a daily AI newsletter for builders, and head of developer relations at the AI coding company Factory.",
+      "other_link_types": []
+    },
+    {
+      "id": "nathaniel-whittemore",
+      "name": "Nathaniel Whittemore",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "podcast",
+      "url": "https://aidailybrief.ai/",
+      "handle": "@nlw",
+      "reach": null,
+      "tags": [
+        "podcast",
+        "news",
+        "daily-briefing"
+      ],
+      "bio": "Host of The AI Daily Brief, a daily podcast and newsletter on AI news, and founder of the AI training company Superintelligent.",
+      "other_link_types": [
+        "Twitter/X"
+      ]
+    },
+    {
+      "id": "michael-spencer",
+      "name": "Michael Spencer",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "substack",
+      "url": "https://www.ai-supremacy.com/",
+      "handle": "@AiSupremacy",
+      "reach": null,
+      "tags": [
+        "newsletter",
+        "trends",
+        "industry"
+      ],
+      "bio": "Author of AI Supremacy newsletter covering AI industry trends and future of work.",
+      "other_link_types": []
+    },
+    {
+      "id": "alessio-fanelli",
+      "name": "Alessio Fanelli",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "podcast",
+      "url": "https://www.latent.space/",
+      "handle": "@FanaHOVA",
+      "reach": null,
+      "tags": [
+        "podcast",
+        "ai-engineering",
+        "startups"
+      ],
+      "bio": "Founder of Kernel Labs, which builds tools for early-stage startups, and former lead co-host of the Latent Space podcast for AI engineers.",
+      "other_link_types": [
+        "Twitter/X",
+        "Blog"
+      ]
+    },
+    {
+      "id": "sam-charrington",
+      "name": "Sam Charrington",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "podcast",
+      "url": "https://twimlai.com/podcast/twimlai",
+      "handle": "@samcharrington",
+      "reach": null,
+      "tags": [
+        "podcast",
+        "ml-engineering",
+        "interviews"
+      ],
+      "bio": "Host of TWIML AI Podcast covering machine learning and AI.",
+      "other_link_types": []
+    },
+    {
+      "id": "dan-faggella",
+      "name": "Dan Faggella",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "podcast",
+      "url": "https://emerj.com/",
+      "handle": "@danfaggella",
+      "reach": null,
+      "tags": [
+        "podcast",
+        "business",
+        "enterprise-ai"
+      ],
+      "bio": "CEO of Emerj and host of AI in Business podcast.",
+      "other_link_types": []
+    },
+    {
+      "id": "craig-s-smith",
+      "name": "Craig S. Smith",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "podcast",
+      "url": "https://www.eye-on.ai/",
+      "handle": "@craigss",
+      "reach": null,
+      "tags": [
+        "podcast",
+        "research",
+        "interviews"
+      ],
+      "bio": "Former New York Times correspondent who hosts the Eye on AI podcast, with interviews of AI researchers and founders.",
+      "other_link_types": [
+        "Twitter/X"
+      ]
+    },
+    {
+      "id": "eric-topol",
+      "name": "Eric Topol",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "substack",
+      "url": "https://erictopol.substack.com/",
+      "handle": "@EricTopol",
+      "reach": "500K+",
+      "tags": [
+        "medical-ai",
+        "clinical-ai",
+        "biomedical"
+      ],
+      "bio": "Scripps Research cardiologist and executive vice president, author of Deep Medicine, who writes Ground Truths, a weekly newsletter and podcast on new biomedical and medical AI research.",
+      "other_link_types": [
+        "Twitter/X"
+      ]
+    },
+    {
+      "id": "theo-t3-gg",
+      "name": "Theo - t3.gg",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@theo",
+      "handle": "@t3dotgg· Theo Browne",
+      "reach": "500K+",
+      "tags": [
+        "ai-coding",
+        "commentary",
+        "models"
+      ],
+      "bio": "Developer and creator of T3 Chat with fast, opinionated takes on new models, AI coding tools and AI lab news.",
+      "other_link_types": [
+        "Twitter/X"
+      ],
+      "url_original": "https://www.youtube.com/@t3dotgg",
+      "youtube_handle": "@theo"
+    },
+    {
+      "id": "nate-b-jones",
+      "name": "Nate B Jones",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@NateBJones",
+      "handle": "@NateBJones",
+      "reach": "100K+",
+      "tags": [
+        "news",
+        "strategy",
+        "newsletter"
+      ],
+      "bio": "Product leader with a daily video and newsletter on AI news and what it means for strategy and work.",
+      "other_link_types": [
+        "Substack"
+      ],
+      "youtube_handle": "@NateBJones"
+    },
+    {
+      "id": "mattvidpro-ai",
+      "name": "MattVidPro AI",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@MattVidPro",
+      "handle": "@MattVidPro",
+      "reach": "100K+",
+      "tags": [
+        "news",
+        "ai-video",
+        "image-generation"
+      ],
+      "bio": "AI news and hands-on tests, with a focus on image, video and creative generation models.",
+      "other_link_types": [
+        "Twitter/X"
+      ],
+      "youtube_handle": "@MattVidPro"
+    },
+    {
+      "id": "machine-learning-street-talk",
+      "name": "Machine Learning Street Talk",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@MachineLearningStreetTalk",
+      "handle": "@MachineLearningStreetTalk· Tim Scarfe",
+      "reach": "100K+",
+      "tags": [
+        "podcast",
+        "research",
+        "interviews"
+      ],
+      "bio": "Deep, technical podcast with AI researchers on intelligence, reasoning, cognitive science and philosophy of mind.",
+      "other_link_types": [
+        "Twitter/X",
+        "Podcast"
+      ],
+      "youtube_handle": "@MachineLearningStreetTalk"
+    },
+    {
+      "id": "peter-h-diamandis",
+      "name": "Peter H. Diamandis",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@PeterDiamandis",
+      "handle": "@PeterDiamandis",
+      "reach": "500K+",
+      "tags": [
+        "podcast",
+        "future",
+        "agi"
+      ],
+      "bio": "XPRIZE founder whose Moonshots podcast covers frontier AI, robotics and the race between AI labs.",
+      "other_link_types": [
+        "Twitter/X",
+        "Podcast"
+      ],
+      "youtube_handle": "@PeterDiamandis"
+    },
+    {
+      "id": "greg-isenberg",
+      "name": "Greg Isenberg",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@GregIsenberg",
+      "handle": "@GregIsenberg",
+      "reach": "500K+",
+      "tags": [
+        "podcast",
+        "startups",
+        "ai-business"
+      ],
+      "bio": "Host of The Startup Ideas Podcast, with episodes on new AI tools, agent workflows and AI business ideas.",
+      "other_link_types": [
+        "Blog"
+      ],
+      "youtube_handle": "@GregIsenberg"
+    },
+    {
+      "id": "nathan-labenz",
+      "name": "Nathan Labenz",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "podcast",
+      "url": "https://www.cognitiverevolution.ai/",
+      "handle": "@labenz",
+      "reach": null,
+      "tags": [
+        "podcast",
+        "interviews",
+        "ai-safety"
+      ],
+      "bio": "Host of The Cognitive Revolution, a weekly podcast interviewing AI builders and researchers.",
+      "other_link_types": [
+        "YouTube",
+        "Twitter/X"
+      ]
+    },
+    {
+      "id": "gary-marcus",
+      "name": "Gary Marcus",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "substack",
+      "url": "https://garymarcus.substack.com/",
+      "handle": "@garymarcus",
+      "reach": null,
+      "tags": [
+        "newsletter",
+        "critique",
+        "ai-policy"
+      ],
+      "bio": "Cognitive scientist and NYU professor emeritus who writes Marcus on AI, a newsletter that pushes back on LLM hype.",
+      "other_link_types": []
+    },
+    {
+      "id": "zvi-mowshowitz",
+      "name": "Zvi Mowshowitz",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "substack",
+      "url": "https://thezvi.substack.com/",
+      "handle": "@thezvi",
+      "reach": null,
+      "tags": [
+        "newsletter",
+        "news",
+        "ai-safety"
+      ],
+      "bio": "Writes Don't Worry About the Vase, long weekly roundups of AI news with careful analysis of models, labs and AI risk.",
+      "other_link_types": [
+        "Twitter/X"
+      ]
+    },
+    {
+      "id": "azeem-azhar",
+      "name": "Azeem Azhar",
+      "section": "Voices",
+      "section_title": "Podcasts, Newsletters & Analysts",
+      "platform": "substack",
+      "url": "https://www.exponentialview.co/",
+      "handle": "@azeem",
+      "reach": null,
+      "tags": [
+        "newsletter",
+        "economics",
+        "strategy"
+      ],
+      "bio": "Former journalist who writes Exponential View, a newsletter and podcast on how AI changes the economy and society.",
+      "other_link_types": [
+        "Twitter/X",
+        "YouTube"
+      ]
+    }
+  ]
+}
