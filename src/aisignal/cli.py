@@ -79,6 +79,53 @@ def cmd_import(args):
     import_firstpass(args.folder)
 
 
+def cmd_digest(args):
+    from .config import OUT_DIR
+    from .digest import select, telegram, writer
+    con = storage.connect()
+    start, end = select.window(args.days, args.end)
+    items = select.candidates(con, start, end)
+    n_accounts = len({i["person"] for i in items})
+    stamp = end[:10]
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    prompt = writer.build_prompt(items, start, end, n_accounts)
+    (OUT_DIR / f"prompt_{stamp}.txt").write_text(writer.SYSTEM + "\n\n" + prompt, encoding="utf-8")
+    print(f"{len(items)} posts from {n_accounts} accounts, {start[:10]}..{end[:10]}; prompt ~{len(prompt)//4} tokens")
+    if args.pack_only:
+        print(f"wrote out/prompt_{stamp}.txt (no LLM call)")
+        return
+    text, usage = writer.write_digest(prompt)
+    path = OUT_DIR / f"digest_{stamp}.html"
+    path.write_text(text, encoding="utf-8")
+    problems = telegram.validate(text)
+    print(f"wrote {path.relative_to(OUT_DIR.parent)}; usage {usage}")
+    print("validation:", "OK" if not problems else problems)
+
+
+def cmd_check(args):
+    from pathlib import Path
+    from .digest import telegram
+    text = Path(args.file).read_text(encoding="utf-8")
+    problems = telegram.validate(text)
+    for i, m in enumerate(telegram.split_messages(text), 1):
+        print(f"message {i}: {telegram.visible_len(m)} visible chars")
+    print("OK" if not problems else "\n".join(problems))
+    return 1 if problems else 0
+
+
+def cmd_post(args):
+    from pathlib import Path
+    from .digest import telegram
+    text = Path(args.file).read_text(encoding="utf-8")
+    problems = telegram.validate(text)
+    if problems:
+        sys.exit("refusing to post, validation failed:\n" + "\n".join(problems))
+    if not args.yes:
+        sys.exit("dry run only. Re-run with --yes after Arman approves this exact file.")
+    ids = telegram.send(telegram.split_messages(text), args.chat)
+    print(f"posted message ids {ids}")
+
+
 def cmd_stats(_args):
     con = storage.connect()
     print("posts by platform:")
@@ -104,10 +151,23 @@ def main(argv=None):
     i = sub.add_parser("import-firstpass")
     i.add_argument("folder")
     i.set_defaults(fn=cmd_import)
+    d = sub.add_parser("digest", help="build the digest dry run into out/ (calls Claude unless --pack-only)")
+    d.add_argument("--days", type=int, default=7)
+    d.add_argument("--end", help="end date YYYY-MM-DD (exclusive), default now")
+    d.add_argument("--pack-only", action="store_true", help="write the prompt pack only, no API call")
+    d.set_defaults(fn=cmd_digest)
+    k = sub.add_parser("check-digest")
+    k.add_argument("file")
+    k.set_defaults(fn=cmd_check)
+    po = sub.add_parser("post", help="post an approved digest file to Telegram (needs --yes)")
+    po.add_argument("file")
+    po.add_argument("--yes", action="store_true")
+    po.add_argument("--chat", help="override chat id (e.g. a private test channel)")
+    po.set_defaults(fn=cmd_post)
     s = sub.add_parser("stats")
     s.set_defaults(fn=cmd_stats)
     args = ap.parse_args(argv)
-    args.fn(args)
+    return args.fn(args)
 
 
 if __name__ == "__main__":

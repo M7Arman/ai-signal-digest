@@ -116,3 +116,26 @@ def test_discover_feed_skips_dead_advertised_link(monkeypatch):
 
     monkeypatch.setattr(rss, "get", fake_get)
     assert rss.discover_feed("https://ex.com/blog/") == "https://ex.com/blog/feed.xml"
+
+
+def test_digest_validate():
+    from aisignal.digest.telegram import validate, split_messages
+    good = ('📡 <b>AI WEEKLY</b> · Nov 18-25\n1️⃣ <b>X</b> said A &amp; B <a href="https://x.com/a/status/1">A</a>'
+            '\n<blockquote>hi</blockquote>\n=====\n🔍 <b>WORTH A CLOSER LOOK</b> <a href="https://ex.com">B</a>')
+    assert validate(good) == [] and len(split_messages(good)) == 2
+    bad = good.replace("&amp;", "&").replace("<blockquote>hi</blockquote>", "<p>hi</p>")
+    probs = validate(bad)
+    assert any("<p>" in p for p in probs) and any("unescaped" in p for p in probs)
+
+
+def test_digest_pack(tmp_path):
+    from aisignal import storage
+    from aisignal.collectors.rss import parse_feed
+    from aisignal.digest import select, writer
+    con = storage.connect(tmp_path / "d.db")
+    storage.upsert_posts(con, parse_feed(RSS, _src()), "rss")
+    start, end = select.window(7, "2026-11-25")
+    items = select.candidates(con, start, end)
+    assert [i["url"] for i in items] == ["https://ex.com/b"]
+    p = writer.build_prompt(items, start, end, 1)
+    assert "TEMPLATE" in p and "https://ex.com/b" in p
