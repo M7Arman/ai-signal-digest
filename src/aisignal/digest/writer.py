@@ -16,7 +16,8 @@ Hard rules:
 - Skip pure self-promotion, sponsor reads, course ads and off-topic posts.
 - Output Telegram HTML only. Allowed tags: <b> <i> <u> <s> <code> <pre> <a href> <blockquote> <tg-spoiler>. No <br>, <p>, <ul>, <li>, headings or Markdown. Escape & < > in text as &amp; &lt; &gt;.
 - Exactly two messages separated by a line containing only =====. Each message under 3800 characters including tags.
-- Follow the template structure exactly: message 1 = "AI WEEKLY" header with the date range, 4 numbered top stories (bold heading, 2-3 sentences, a <blockquote> with a reaction or context, source links); message 2 = "WORTH A CLOSER LOOK" with 4-6 short items (topics, disputes, tools, open models, the contrarian view) and the footer.
+- Readability first (approved layout 2026-11-26, see config/examples/digest_2026-11-25_v2.html): short headlines (max ~8 words), max 2 bullet lines per story, each line one short fact; one short quote per story; all links on one "🔗 A · B · C" line at the end of the item with short source names; no long sentences or nested clauses; blank line between items. Target under 1,500 visible characters per message.
+- Follow the template structure exactly: message 1 = "AI SIGNAL" header with the date range, 4 numbered top stories (bold heading, 2-3 sentences, a <blockquote> with a reaction or context, source links); message 2 = "WORTH A CLOSER LOOK" with 4-6 short items (topics, disputes, tools, open models, the contrarian view) and the footer.
 - English, plain and direct. No hype words ("game-changer", "revolutionary"). No investment advice.
 Return only the two messages, nothing else."""
 
