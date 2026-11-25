@@ -9,7 +9,7 @@
     "simon-willison": {"feed_url": "https://simonwillison.net/atom/everything/"},
     "shawn-wang-swyx": {"feed_url": "https://www.latent.space/feed"},
     "alessio-fanelli": {"feed_url": "https://www.latent.space/feed"},
-    "maxime-labonne": {"feed_url": "https://mlabonne.github.io/blog/index.xml"},
+    "maxime-labonne": {"feed_url": "https://maximelabonne.substack.com/feed", "note": "github.io blog index.xml is 404; posts moved to Substack"},
     "ruben-hassid": {"feed_url": "https://ruben.substack.com/feed", "collector": "rss", "platform": "substack"},
     "dwarkesh-patel": {"feed_url": "https://www.dwarkesh.com/feed"},
     "ben-tossell": {"feed_url": "https://www.bensbites.com/feed"},
@@ -18,7 +18,10 @@
     "gary-marcus": {"feed_url": "https://garymarcus.substack.com/feed"},
     "zvi-mowshowitz": {"feed_url": "https://thezvi.substack.com/feed"},
     "azeem-azhar": {"feed_url": "https://www.exponentialview.co/feed"},
-    "nathan-labenz": {"feed_url": "https://www.cognitiverevolution.ai/feed"}
+    "nathan-labenz": {"feed_url": "https://www.cognitiverevolution.ai/feed"},
+    "lukas-biewald": {"feed_url": "https://feeds.captivate.fm/gradient-dissent/", "note": "Gradient Dissent; wandb.ai page has no feed link"},
+    "nathaniel-whittemore": {"feed_url": "https://anchor.fm/s/f7cac464/podcast/rss", "note": "The AI Daily Brief"},
+    "craig-s-smith": {"feed_url": "https://rss.libsyn.com/shows/123267/destinations/727317.xml", "note": "Eye on AI; site's Squarespace feed is empty"}
   },
   "extra_sources": [
     {"source_id": "andrej-karpathy:x", "person": "Andrej Karpathy", "person_ids": ["andrej-karpathy"],

@@ -21,8 +21,14 @@ def discover_feed(url: str) -> str | None:
         soup = BeautifulSoup(r.text, "html.parser")
         for link in soup.find_all("link", rel=lambda v: v and "alternate" in v):
             t = (link.get("type") or "").lower()
-            if "rss" in t or "atom" in t:
-                return urljoin(r.url, link["href"])
+            if ("rss" in t or "atom" in t) and link.get("href"):
+                # advertised feeds can be stale (e.g. a 404 index.xml): verify before trusting
+                cand = urljoin(r.url, link["href"])
+                try:
+                    if _looks_like_feed(get(cand, timeout=10, retries=0).text):
+                        return cand
+                except Exception:
+                    continue
     except Exception:
         pass
     base = url if url.endswith("/") else url + "/"

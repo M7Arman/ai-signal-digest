@@ -93,3 +93,26 @@ def test_import_firstpass(tmp_path, monkeypatch):
     assert rows["123"]["published_at"] == "2026-11-22T12:00:00Z"
     assert rows["123"]["person"] == "Sam Altman" and rows["123"]["platform"] == "x"
     assert "hello transcript" in rows["abcdefghijk"]["metrics"]
+
+
+def test_discover_feed_skips_dead_advertised_link(monkeypatch):
+    """A page advertising a 404 feed must not win; fall through to a working common path."""
+    import requests
+    from aisignal.collectors import rss
+
+    class R:
+        def __init__(self, url, text):
+            self.url, self.text = url, text
+
+    pages = {
+        "https://ex.com/blog/": '<html><head><link rel="alternate" type="application/rss+xml" href="index.xml"></head></html>',
+        "https://ex.com/blog/feed.xml": RSS.decode(),
+    }
+
+    def fake_get(url, **kw):
+        if url in pages:
+            return R(url, pages[url])
+        raise requests.HTTPError(f"404 for {url}")
+
+    monkeypatch.setattr(rss, "get", fake_get)
+    assert rss.discover_feed("https://ex.com/blog/") == "https://ex.com/blog/feed.xml"
